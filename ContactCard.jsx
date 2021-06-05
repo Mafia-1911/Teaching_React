@@ -4,9 +4,9 @@ import React from 'react'
 const ContactCard = () => {
      const {name,id,email }=props.contact;
     return (
-        <div>
-            
-        </div>
+     <div className="item">
+                <div className="content">
+                    <div className="header"> <div >{name}</div>     </div>       
     )
 }
 
