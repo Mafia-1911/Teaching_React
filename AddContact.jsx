@@ -3,7 +3,7 @@ import {useState}from 'react'
 
 
 export class AddContact extends Component {
-    const []=useState(');
+    const []=useState('');
     render() {
         return (
             <div>
