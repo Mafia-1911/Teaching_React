@@ -1,7 +1,9 @@
 import React, { Component } from 'react'
 import {useState}from 'react'
 
+
 export class AddContact extends Component {
+    const []=useState('');
     render() {
         return (
             <div>
