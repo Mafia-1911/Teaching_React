@@ -15,5 +15,5 @@ const ContactCard = () => {
     )
 }
 
-export default ContactCar
+export default ContactCard
 
