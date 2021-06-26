@@ -9,4 +9,4 @@ ReactDOM.render(
   document.getElementById('root')
 );
 
-//git command to add and not to ad
+//git command to add and not to add 
